@@ -8,9 +8,6 @@ Part 2: Combination of two CTEs to query purchase items and stock in each wareho
 
 Part 3: A summary of the main query that combines CTEs to fetch the total purchase amount, payment status, and inventory tracking in each warehouse.
 
- Data Explanatory: This is one example of my SQL coding skills.
- 
- In reality, this will be connected to internal company software and data warehouses for specific, complex business extractions as I know. 
- At this point, I can coordinate with any job tasks by using other third-party company tools and software as well.
+Data Explanatory: This is just one example of my SQL coding skills. In this case scenario,it will be connected to internal company software and data warehouses for specific, complex business system data extractions. At some point, I can collaborate with other team colleagues on any job tasks by using third-party company tools and software as well.
 
 Thank you so much for your review and questions for further development.
